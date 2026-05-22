@@ -45,6 +45,10 @@
 <br>
 20. Python pass statement
 <br>
+21. Python Functions
+<br>
+22. Python Recursion Function
+<br>
 
 <h5>Author Saqib Javed </h5>
 

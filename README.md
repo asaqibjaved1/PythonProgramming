@@ -49,6 +49,13 @@
 <br>
 22. Python Recursion Function
 <br>
+23. Python File input output 
+    open, Read, write, append,close 
+<br>
+24. Python Class, Constructor , destructor
+<br>
+25. Python Abstraction, Encapsulation
+<br>
 
 <h5>Author Saqib Javed </h5>
 
